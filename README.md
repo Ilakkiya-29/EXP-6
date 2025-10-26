@@ -7,8 +7,12 @@ APPARATUS: - LVDT kit, Multimeter
 
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
-DIAGRAM:
-CIRCUIT DIAGRAM
+CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2025-10-10 at 21 13 46_6c76fe92](https://github.com/user-attachments/assets/dd004a38-7091-41e3-bb10-97fd876c9a11)
+
+![WhatsApp Image 2025-10-10 at 21 13 47_9aaa46f5](https://github.com/user-attachments/assets/46a2f344-f370-4ee7-8a5c-9b4b3ed1f4f7)
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -17,7 +21,11 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OBSERVATION TABLE:
+
+![WhatsApp Image 2025-10-26 at 21 56 11_3605d28b](https://github.com/user-attachments/assets/f885a009-5930-4670-81d2-b5a077e7c91c)
+
+![WhatsApp Image 2025-10-26 at 21 56 12_115bd465](https://github.com/user-attachments/assets/8d7f23aa-dd70-4804-a7d3-b41167a36da7)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
